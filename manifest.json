@@ -1,6 +1,6 @@
 {
-  "short_name": "JHJ Portfolio",
-  "name": "JHJ Portfolio 2024",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
